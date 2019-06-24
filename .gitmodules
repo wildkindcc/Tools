@@ -1,0 +1,21 @@
+[submodule "inqServices"]
+	path = inqServices
+	url = https://github.com/wildkindcc/inqServices.git
+[submodule "inqHTTP"]
+	path = inqHTTP
+	url = https://github.com/wildkindcc/inqHTTP.git
+[submodule "smb-version"]
+	path = smb-version
+	url = https://github.com/amitn322/smb-version
+[submodule "ad-ldap-enum"]
+	path = ad-ldap-enum
+	url = https://github.com/CroweCybersecurity/ad-ldap-enum.git
+[submodule "Kadimus"]
+	path = Kadimus
+	url = https://github.com/P0cL4bs/Kadimus.git
+[submodule "NoSQLMap"]
+	path = NoSQLMap
+	url = https://github.com/codingo/NoSQLMap.git
+[submodule "Responder"]
+	path = Responder
+	url = https://github.com/lgandx/Responder
